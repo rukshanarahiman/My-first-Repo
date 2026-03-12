@@ -15,5 +15,5 @@ This repository is part of a beginner's GitHub activity to understand:
 ## Next steps
 1. Upload a sample text or code file.
 2. Commit changes with meaningful messages.
-3. Share the repo link.
+3. Share the repo link
    
